@@ -3,25 +3,11 @@
 
 
 ## Table of Contents
-- [Project Structure](#project-structure)
 - [Prerequisites](#prerequisites)
 - [Setup](#setup-and-installation)
 - [Running the Code](#running-the-code)
 - [Running Tests](#running-tests)
 
-## Project Structure
-
-The repository is structured as follows:
-
-```
-.
-├── data                # Sample data files used in the course
-├── docs                # Documentation files (course outline)
-├── README.md           # This file
-├── requirements.txt    # List of dependencies
-├── src                 # Source code for the exercise in Chapter 4
-└── test                # Test cases and scripts
-```
 
 ## Prerequisites
 
