@@ -1,4 +1,4 @@
-
+### Course Title: **Debugging Code**
 ### **Course Outline**
 
 ### **Chapter 1: Introduction**
